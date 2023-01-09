@@ -1,0 +1,13 @@
+{
+    "products" : [
+        { "id" : "1", "name":"Phone", "body":" thh hhh 1"},
+        { "id" : "2", "name":"Book", "body":" thh hhh 2"},
+        { "id" : "3", "name":"Tv", "body":" thh hhh 3"}
+    ],
+
+    "news" : [
+        { "id" : "1", "title":"title 1", "body":" thh hhh 1"},
+        { "id" : "2", "title":"title 2", "body":" thh hhh 2"},
+        { "id" : "3", "title":"title 3", "body":" thh hhh 3"}
+    ]
+}
