@@ -105,3 +105,19 @@ a {
     color-scheme: dark;
   }
 } */
+
+
+.blink {
+  animation: blink-animation 1s steps(1, start) 1;
+  -webkit-animation: blink-animation 1s steps(1, start) 1;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
